@@ -6,7 +6,7 @@ Run, jump, and dodge obstacles! Perfect for when you're bored — with or withou
 
 ## Screenshot
 
-![Dino Game Screenshot](graphic/dino runner game.png)
+![Dino Game Screenshot](graphic/screenshot.png)
 
 ## ▶️ How to Run
 
